@@ -77,18 +77,9 @@ GitHub 給的網址已經有**憑證**了，這時候可以選擇要不要綁定
 
 點開來會發現 GitHub 的憑證沒了，把 `Enforce HTTPS` 勾起來，一段時間後會幫你弄憑證，
 
-到這邊就算完成了，之後可以再寫一些網頁的東西放上來。
-
 ![image](https://raw.githubusercontent.com/L0VEMILKTEA/GitHub-Pages/653823aeca7b42ccc99614efe61a941e978627b7/9%E5%BC%B7%E5%88%B6HTTPS.jpeg "綁定成功")
 
-
-
-
-
-
-
-
-
+到這邊就算完成了，之後可以再寫一些網頁的東西放上來。
 
 
 
