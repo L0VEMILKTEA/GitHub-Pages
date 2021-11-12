@@ -11,9 +11,9 @@
 
 已經妥備帳號可以省略這個步驟，申請帳號沒有太多複雜的手續，亦有不少能派上用場的時候。
 
-在我查資料嘗試綁定時看到大部分的文獻都是使用 DNS 綁定 GitHub Pages，
+在我查資料嘗試綁定時看到大部分的文獻都是使用 **DNS** 綁定 **GitHub Pages**，
 
-在我的認知中 DNS 有個動態域名的技術，我覺得可以直接使用 DDNS，
+在我的認知中 **DNS** 有個**動態域名**的技術，也就是 **DDNS**，我覺得可以做到相同的效果，
 
 一方面我沒有個別申請或購買過一個網域域名，先前在 No-IP 申請過免費的 DDNS 做為網域，
 
@@ -43,7 +43,7 @@ GitHub 有提供一些網頁範本用，先點選上排 `Setting` 後左下有 `
 
 建立完成上面會有一段**網址**，就是使用 GitHub 網域產生的個人網頁，
 
-網址應該是 `https://你的 GitHub 帳號.github.io/你的專案名稱/`，
+網址應該是 `https://你的帳號.github.io/你的專案名稱/`，
 
 GitHub 給的網址已經有**憑證**了，這時候可以選擇要不要綁定**個人網域**，或著單純放作品到 GitHub 上。
 
@@ -57,19 +57,19 @@ GitHub 給的網址已經有**憑證**了，這時候可以選擇要不要綁定
 
 ![image](https://raw.githubusercontent.com/L0VEMILKTEA/GitHub-Pages/653823aeca7b42ccc99614efe61a941e978627b7/6%E9%BB%9E%E9%81%B8%E5%84%80%E8%A1%A8%E6%9D%BF.jpeg "進入後台")
 
-點選 `More Records` 創建 **DDNS** ，
+點選 `More Records` 創建 **DDNS**，
 
 ![image](https://raw.githubusercontent.com/L0VEMILKTEA/GitHub-Pages/653823aeca7b42ccc99614efe61a941e978627b7/7%E5%BB%BA%E7%AB%8B%E5%9F%9F%E5%90%8D2.jpeg "建立DDNS")
 
-我在一開始用指向 IP 建立 `A` ，遇到 GitHub 要求指向名稱 `CNAME` ，
+我在一開始用指向 IP 建立 `A`，遇到 GitHub 要求指向名稱 `CNAME`，
 
- `A` 是 `Address` 指向 IP 位址， `CNAME` 是 `Canonical Name` 指向真實名稱，運作方式不一樣。
+`A` 是 `Address` 指向 IP 位址，`CNAME` 是 `Canonical Name` 指向真實名稱，運作方式不一樣。
 
 ![image](https://raw.githubusercontent.com/L0VEMILKTEA/GitHub-Pages/653823aeca7b42ccc99614efe61a941e978627b7/8%E5%BB%BA%E7%AB%8BA.jpeg "綁定失敗")
 
-所以我們類型點下面的`CNAME` ，右邊的 **Target** 綁定自己的 GitHub 網域，
+所以我們類型點下面的 `CNAME` ，右邊的 **Target** 綁定自己的 GitHub 網域，
 
-然後選想要的 **Domain** 並取個好名 **Hostname** 點右下角 `Create Hostname` 就成功建立指向，
+然後選想要的 `Domain` 並取個好名字 **Hostname**，點右下角 `Create Hostname` 就成功建立指向，
 
 ![image](https://raw.githubusercontent.com/L0VEMILKTEA/GitHub-Pages/653823aeca7b42ccc99614efe61a941e978627b7/8%E5%BB%BA%E7%AB%8BCNAME.jpeg "建立CNAME")
 
