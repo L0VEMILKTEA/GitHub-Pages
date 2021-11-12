@@ -43,12 +43,9 @@ GitHub 有提供一些網頁範本用，先點選上排 `Setting` 後左下有 `
 
 建立完成上面會有一段**網址**，就是使用 GitHub 網域產生的個人網頁，
 
-```
-網址應該是
-https://{你的 GitHub 帳號}.github.io/{你的專案名稱}/
-```
+網址應該是 `https://{你的 GitHub 帳號}.github.io/{你的專案名稱}/` ，
 
-GitHub 給的網址已經有**憑證**了，這時候可以選擇要不要綁定**個人網域**，或著單純放作品到 GitHub 上
+GitHub 給的網址已經有**憑證**了，這時候可以選擇要不要綁定**個人網域**，或著單純放作品到 GitHub 上。
 
 ![image](https://raw.githubusercontent.com/L0VEMILKTEA/GitHub-Pages/653823aeca7b42ccc99614efe61a941e978627b7/5%E5%80%8B%E4%BA%BA%E7%B6%B2%E5%9D%80.jpeg "網頁產生")
 
@@ -64,7 +61,9 @@ GitHub 給的網址已經有**憑證**了，這時候可以選擇要不要綁定
 
 ![image](https://raw.githubusercontent.com/L0VEMILKTEA/GitHub-Pages/653823aeca7b42ccc99614efe61a941e978627b7/7%E5%BB%BA%E7%AB%8B%E5%9F%9F%E5%90%8D2.jpeg "建立DDNS")
 
-我在一開始用指向 IP 建立 `A` **Address** ，遇到 GitHub 要求指向名稱`CNAME`**Canonical Name**，
+我在一開始用指向 IP 建立 `A` ，遇到 GitHub 要求指向名稱 `CNAME` ，
+
+ `A` 是 `Address` 指向 IP 位址， `CNAME` 是 `Canonical Name` 指向真實名稱，運作方式不一樣。
 
 ![image](https://raw.githubusercontent.com/L0VEMILKTEA/GitHub-Pages/653823aeca7b42ccc99614efe61a941e978627b7/8%E5%BB%BA%E7%AB%8BA.jpeg "綁定失敗")
 
