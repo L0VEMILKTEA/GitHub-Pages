@@ -18,30 +18,30 @@
 ## 1. 建立個人專案
 ----
 
-登入後點選右上角的 **頭像**，接著點 **Your repositories** 建立新的專案，
+登入後點選右上角的 **頭像**，接著點 `Your repositories` 建立新的專案，
 
 ![image](https://raw.githubusercontent.com/L0VEMILKTEA/GitHub-Pages/653823aeca7b42ccc99614efe61a941e978627b7/1%E5%BB%BA%E7%AB%8B%E5%B0%88%E6%A1%88.jpeg "建立專案 1 ")
 
-替你的專案**命名**，可以加上**簡述**，再按下面的 **Create repository** 即可。
+替你的專案**命名**，可以加上**簡述**，再按下面的 `Create repository` 即可。
 
 ![image](https://raw.githubusercontent.com/L0VEMILKTEA/GitHub-Pages/653823aeca7b42ccc99614efe61a941e978627b7/2%E5%89%B5%E5%BB%BA%E5%84%B2%E5%AD%98%E5%BA%AB.jpeg)
 
-GitHub 有提供一些網頁範本用，先點選上排 **Setting** 後左下有 **Pages** ，就能點 **Chooes a theme** 選個喜歡的範本囉！
+GitHub 有提供一些網頁範本用，先點選上排 `Setting` 後左下有 `Pages` ，就能點 `Chooes a theme` 選個喜歡的範本囉！
 
 ![image](https://raw.githubusercontent.com/L0VEMILKTEA/GitHub-Pages/653823aeca7b42ccc99614efe61a941e978627b7/3%E4%BD%BF%E7%94%A8%E7%AF%84%E6%9C%AC.jpeg)
 
-我自己比較習慣用深色背景，對觀看者來說負擔比較小，選定後點右上角 **Select theme** 就好囉。
+我自己比較習慣用深色背景，對觀看者來說負擔比較小，選定後點右上角 `Select theme` 就好囉。
 
 ![image](https://raw.githubusercontent.com/L0VEMILKTEA/GitHub-Pages/653823aeca7b42ccc99614efe61a941e978627b7/4%E6%8C%91%E9%81%B8%E7%AF%84%E6%9C%AC.jpeg)
 
-建立完成上面會有一段網址，就是使用 GitHub 網域產生的個人網頁，
+建立完成上面會有一段 **網址** ，就是使用 GitHub 網域產生的個人網頁，
 
 ```
 網址應該是
 https://{你的 GitHub 帳號}.github.io/{你的專案名稱}/
 ```
 
-GitHub 給的網址已經有憑證了，這時候可以選擇要不要綁定個人網域，或著單純放作品到 GitHub 上
+GitHub 給的網址已經有 **憑證** 了，這時候可以選擇要不要綁定個人 **網域** ，或著單純放作品到 GitHub 上
 
 ![image](https://raw.githubusercontent.com/L0VEMILKTEA/GitHub-Pages/653823aeca7b42ccc99614efe61a941e978627b7/5%E5%80%8B%E4%BA%BA%E7%B6%B2%E5%9D%80.jpeg)
 
