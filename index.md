@@ -20,11 +20,11 @@
 
 登入後點選右上角的 **頭像** ，接著點 **Your repositories** ，
 
-![alt 文字](https://imgur.com/O7wQkgU "建立專案")
+![alt 文字] (https://raw.githubusercontent.com/L0VEMILKTEA/GitHub-Pages/653823aeca7b42ccc99614efe61a941e978627b7/1%E5%BB%BA%E7%AB%8B%E5%B0%88%E6%A1%88.jpeg "建立專案 1 ")
 
+替你的專案 **命名** ，可以加上 **簡述** ，再按下面的Create repository即可。
 
-
-
+(https://raw.githubusercontent.com/L0VEMILKTEA/GitHub-Pages/653823aeca7b42ccc99614efe61a941e978627b7/2%E5%89%B5%E5%BB%BA%E5%84%B2%E5%AD%98%E5%BA%AB.jpeg)
 
 
 ## 2. 建立個人網域
