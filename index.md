@@ -43,14 +43,14 @@ GitHub 有提供一些網頁範本用，先點選上排 `Setting` 後左下有 `
 
 建立完成上面會有一段**網址**，就是使用 GitHub 網域產生的個人網頁，
 
-網址應該是 `https://{你的 GitHub 帳號}.github.io/{你的專案名稱}/` ，
+網址應該是 `https://你的 GitHub 帳號.github.io/你的專案名稱/`，
 
 GitHub 給的網址已經有**憑證**了，這時候可以選擇要不要綁定**個人網域**，或著單純放作品到 GitHub 上。
 
 ![image](https://raw.githubusercontent.com/L0VEMILKTEA/GitHub-Pages/653823aeca7b42ccc99614efe61a941e978627b7/5%E5%80%8B%E4%BA%BA%E7%B6%B2%E5%9D%80.jpeg "網頁產生")
 
 
-##在No-IP建立個人網域
+## 2. 在No-IP建立個人網域
 ----
 
 登入 No-IP 後點 `My Account` 進入後台，
